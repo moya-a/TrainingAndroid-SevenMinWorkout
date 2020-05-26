@@ -1,0 +1,15 @@
+<resources>
+  <!-- General Strings -->
+  <string name="app_name">7 Minutes Workout</string>
+  <string name="yes">YES</string>
+  <string name="no">NO</string>
+
+  <!-- MainActivity Strings -->
+  <string name="mainActivity_title_image_description">7 Minutes Workout title image</string>
+  <string name="mainActivity_start_button_text">Start</string>
+
+  <!-- ExerciseActivity Strings -->
+  <string name="exerciseActivity_back_dialog_title">Discard Exercise</string>
+  <string name="exerciseActivity_back_dialog_message">Your exercise is not yet finish, are you sure you want to discard it ?</string>
+  <string name="ExerciseActivity_get_ready">GET READY FOR IT</string>
+</resources>
